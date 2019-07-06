@@ -1,68 +1,63 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Job Manager Dashboard 
 
-## Available Scripts
+### Dribble UI Challenge - July 2019
 
-In the project directory, you can run:
+-------- 
 
-### `npm start`
+## Bonus Update: Watch the 2 Minute Timelapse Video
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Since I get so many questions about my workflow, I decided to record a timelapse of me attempting the challenge. The video takes 4 hours and 11 minutes of coding and timelapses it into 2 minutes. Hold on tight.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+In the video, I go from a single screenshot and create-react-app (read: from nothing!) to an initial component-based implementation in React in under five hours. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*Click on the video below to watch!*
 
-### `npm run build`
+[![Dribbble UI Challenge - July 2019 - 200x](https://i.imgur.com/BKymYmc.png)](https://www.youtube.com/watch?v=46nTARC1hSI "Dribbble UI Challenge - July 2019 [Timelapse 200x] 4K")
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Overview
 
-### `npm run eject`
+Every now and then I like to flex my CSS muscles; One of my honed skills is being able to rapidly prototype web pages from scratch -- in this case, just a screenshot.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+##### What's the Dribbble UI challenge?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Pick a top web design on Dribbble and implement the UI using React as fast as possible. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### What's this month's Dribbble of choice?
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[Dashboard - Job Manager](https://dribbble.com/shots/6696668-Dashboard-Job-Manager)
 
-## Learn More
+It is one of the highest viewed web designs of this month on Dribbble.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Why do this?
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+One of my hobbies is taking a random screenshot from dribbble and seeing how fast I can implement the UI with React and styled-components.
 
-### Code Splitting
+#### Finished demo
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+[https://mere-relation.surge.sh](https://mere-relation.surge.sh/)
 
-### Analyzing the Bundle Size
+#### Tools used
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+My tools of choice are Sketch, React, styled-components and react-feathers. That's really all you need :) 
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+#### Some previous challenges
 
-### Advanced Configuration
+- [https://github.com/johnrjj/chat-ui](https://github.com/johnrjj/chat-ui) 
+- [https://github.com/johnrjj/elegant-ui](https://github.com/johnrjj/elegant-ui)
+- [https://github.com/johnrjj/reporting-dashboard](https://github.com/johnrjj/reporting-dashboard)
+- [https://github.com/johnrjj/flight-ui-dribbble-challenge](https://github.com/johnrjj/flight-ui-dribbble-challenge)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+## 10 Minute Timelapse Extended Blu-Ray Edition 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+If the 2 minute timelapse is too quick, and you want a more detailed video, here is the 10 minute version which I think can be followed a bit better.
 
-### `npm run build` fails to minify
+Click on the video below to watch!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[![Dribbble UI Challenge - July 2019 - 25x](https://i.imgur.com/s380O1w.png)](https://www.youtube.com/watch?v=kGtxwVoXo1U "Dribbble UI Challenge - July 2019 [Timelapse 25x] 4K")
+
+
