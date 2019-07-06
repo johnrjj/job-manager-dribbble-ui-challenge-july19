@@ -11,3 +11,55 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Cereal', 'sans-serif';
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+  font-size: 16px;
+}
+
+@font-face {
+  font-family: 'Cereal';
+  src: url('./assets/fonts/cereal/AirbnbCereal-Light.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cereal';
+  src: url('./assets/fonts/cereal/AirbnbCereal-Book.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cereal';
+  src: url('./assets/fonts/cereal/AirbnbCereal-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cereal';
+  src: url('./assets/fonts/cereal/AirbnbCereal-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+}
