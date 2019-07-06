@@ -39,10 +39,6 @@ One of my hobbies is taking a random screenshot from dribbble and seeing how fas
 
 [https://mere-relation.surge.sh](https://mere-relation.surge.sh/)
 
-#### Tools used
-
-My tools of choice are Sketch, React, styled-components and react-feathers. That's really all you need :) 
-
 
 #### Some previous challenges
 
@@ -60,4 +56,18 @@ Click on the video below to watch!
 
 [![Dribbble UI Challenge - July 2019 - 25x](https://i.imgur.com/s380O1w.png)](https://www.youtube.com/watch?v=kGtxwVoXo1U "Dribbble UI Challenge - July 2019 [Timelapse 25x] 4K")
 
+
+## FAQ
+
+#### Tools used
+
+My tools of choice are Sketch, React, styled-components and react-feathers. 
+
+#### Can I hire you?
+
+Feel to inquire about my hourly rate or larger project estimates. Give me a Sketch file and I'll give you a quality web application.
+
+#### How did you get good at this?
+
+Practice. Lots of practice.
 
