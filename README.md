@@ -23,7 +23,7 @@ Every now and then I like to flex my CSS muscles; One of my honed skills is bein
 
 ##### What's the Dribbble UI challenge?
 
-Pick a top web design on Dribbble and implement the UI using React as fast as possible. 
+Pick a top web design on Dribbble and implement the UI using React as fast as possible. Best time wins!
 
 #### What's this month's Dribbble of choice?
 
@@ -33,7 +33,7 @@ It is one of the highest viewed web designs of this month on Dribbble.
 
 #### Why do this?
 
-One of my hobbies is taking a random screenshot from dribbble and seeing how fast I can implement the UI with React and styled-components.
+One of my hobbies is taking a random screenshot from dribbble and seeing how fast I can implement the UI with React and styled-components. 
 
 #### Finished demo
 
