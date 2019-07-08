@@ -6,7 +6,7 @@
 
 ## Bonus Update: Watch the 2 Minute Timelapse Video
 
-Since I get so many questions about my workflow, I decided to record a timelapse of me attempting the challenge. The video takes 4 hours and 11 minutes of coding and timelapses it into 2 minutes. Hold on tight (There's a longer video at the bottom of the README if this one is too fast for you).
+Since I get a lot of questions about my workflow, I decided to record a timelapse of me attempting the challenge. The video takes 4 hours and 11 minutes of coding and timelapses it into 2 minutes. Hold on tight (There's a longer video at the bottom of the README if this one is too fast for you).
 
 In the video, I go from a single screenshot and create-react-app (read: from nothing!) to an initial component-based implementation in React in under five hours. 
 
@@ -65,7 +65,7 @@ My tools of choice are Sketch, React, styled-components and react-feathers.
 
 #### Can I hire you?
 
-Feel to inquire about my hourly rate or larger project estimates. Give me a Sketch file and I'll give you a quality web application.
+Feel to inquire about my hourly rate or larger project estimates. Give me a Sketch file and I'll give you a quality web application. Contact me at johnrjj+github[at]gmail.com.
 
 #### How did you get good at this?
 
